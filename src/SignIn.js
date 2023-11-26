@@ -1,5 +1,4 @@
 import React, { useCallback, Component } from 'react';
-import logo from './assets/FQM_branco.png';
 
 // import { useAuth } from '../../hooks/auth';
 
